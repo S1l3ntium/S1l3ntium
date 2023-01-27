@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s1l3ntium&label=Profile%20views&color=0e75b6&style=flat" alt="s1l3ntium" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s1l3ntium" alt="s1l3ntium" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s1l3ntium&theme=darkhub" alt="s1l3ntium" /></a> </p>
 
 - 🔭 I’m currently working on [Online VIVT](https://github.com/S1l3ntium/online-vivt)
 

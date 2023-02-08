@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s1l3ntium&theme=darkhub&no-frame=true&column=-1&margin-w=15&margin-h=15" alt="s1l3ntium" /></a> </p>
 
-- 🔭 I’m currently working on [Online VIVT](https://github.com/S1l3ntium/online-vivt)
+- 🔭 I’m currently working on [learnVIVT](https://github.com/S1l3ntium/learnVIVT)
 
 - 🌱 I’m currently learning **Figma, React**
 

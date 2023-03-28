@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s1l3ntium&theme=darkhub&no-frame=true&column=-1&margin-w=15&margin-h=15" alt="s1l3ntium" /></a> </p>
 
-- 🔭 I am currently working on a couple of personal projects without a repository.
+- 🔭 I am currently working on a couple of personal projects without a repository
 
 - 🌱 I’m currently learning **Figma, React**
 

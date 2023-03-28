@@ -7,9 +7,9 @@
 
 - 🔭 I am currently working on a couple of personal projects without a repository
 
-- 🌱 I’m currently learning **Figma, React**
+- 🌱 I’m currently learning **Figma, React, Vue.js**
 
-- 💬 Ask me about **Wordpress, SCSS**
+- 💬 Ask me about **Wordpress, Tilda, SCSS**
 
 - 📫 How to reach me **denis.chichmarev@gmail.com**
 

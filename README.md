@@ -7,7 +7,7 @@
 
 - 🔭 I am currently working on a couple of personal projects without a repository
 
-/*- 🌱 I’m currently learning **Figma, React, Vue.js, PHP***/
+<!---- 🌱 I’m currently learning **Figma, React, Vue.js, PHP***/-->
 
 - 💬 Ask me about **Wordpress, Tilda, CSS (SCSS / SASS), JS**
 

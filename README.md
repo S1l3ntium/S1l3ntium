@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Denis Chichmarev</h1>
-<h3 align="center">Junior frontend developer, UI\UX designer</h3>
+<h3 align="center">Junior(maybe milord? ^_^) full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s1l3ntium&label=Profile%20views&color=0e75b6&style=flat" alt="s1l3ntium" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s1l3ntium&theme=darkhub&no-frame=true&column=-1&margin-w=15&margin-h=15" alt="s1l3ntium" /></a> </p>
 
-- 🔭 I am currently working on a couple of personal projects without a repository
+- 🔭 Currently working in a small team
 
 <!---- 🌱 I’m currently learning **Figma, React, Vue.js, PHP***/-->
 
-- 💬 Ask me about **Wordpress, Tilda, CSS (SCSS / SASS), JS**
+- 💬 Ask me about **Wordpress, Tilda, CSS (SCSS / SASS), JS, PeHaPi**
 
 - 📫 How to reach me **denis.chichmarev@gmail.com**
 

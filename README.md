@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Denis Chichmarev</h1>
-<h3 align="center">Junior(maybe milord? ^_^) full-stack developer</h3>
+<h3 align="center">Mid(maybe milord? ^_^) full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s1l3ntium&label=Profile%20views&color=0e75b6&style=flat" alt="s1l3ntium" /> </p>
 

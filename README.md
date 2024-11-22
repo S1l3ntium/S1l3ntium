@@ -9,7 +9,7 @@
 
 <!---- 🌱 I’m currently learning **Figma, React, Vue.js, PHP***/-->
 
-- 💬 Ask me about **PHP, Smarty Template, JS, CSS (SCSS / SASS), Tilda**
+<!---- 💬 Ask me about **PHP, Smarty Template, JS, CSS (SCSS / SASS), Tilda**-->
 
 - 📫 How to reach me **denis.chichmarev@gmail.com**
 

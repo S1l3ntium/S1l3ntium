@@ -48,6 +48,8 @@
 #### IDEs
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
 ![PHPStorm](https://img.shields.io/badge/PHPStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ---
 

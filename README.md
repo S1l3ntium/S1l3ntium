@@ -16,7 +16,7 @@
 
 - 🌍 I’m based in **Voronezh, RU (UTC+3)**
 - ✉️ Contact me at: [denis.chichmarev@gmail.com](mailto:denis.chichmarev@gmail.com)
-- 🚀 Currently working on: [ТС.РФ — telecom projects](http://тс.рф), internal platforms, personal dev tools
+- 🚀 Currently working on: [ТС.РФ](http://тс.рф), internal platforms, personal dev tools
 - 🧠 Learning: **React.js**, **Next.js**, deepening backend stack
 - 🤝 Open to collaborations on meaningful projects
 

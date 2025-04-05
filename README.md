@@ -10,7 +10,7 @@ Full stack web-developer & Network enthusiast
 
 * 🌍  I'm based in Voronezh, RU (UTC +3)
 * ✉️  You can contact me at [denis.chichmarev@gmail.com](mailto:denis.chichmarev@gmail.com)
-* 🚀  I'm currently working on [internet provider's website, internal corporate projects and personal projects](http://тс.рф)
+* 🚀  I'm currently working on [internet provider's website, internal corporate projects](http://тс.рф) and personal projects
 * 🧠  I'm learning React.js | Next.js
 * 🤝  I'm open to collaborating on interesting projects
 
@@ -37,6 +37,6 @@ src="https://img.shields.io/github/followers/S1l3ntium?logo=github&style=for-the
 
 <a href="http://www.github.com/S1l3ntium"><img src="https://github-readme-streak-stats.herokuapp.com/?user=S1l3ntium&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/S1l3ntium"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=S1l3ntium&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### <a href="http://www.github.com/S1l3ntium"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=S1l3ntium&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/S1l3ntium" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S1l3ntium&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

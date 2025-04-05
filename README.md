@@ -36,7 +36,7 @@ src="https://img.shields.io/github/followers/S1l3ntium?logo=github&style=for-the
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]((https://t.me/xtraS1l3ntium))
-[![Gmail](https://img.shields.io/badge/s1l3ntium.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denis.chichmarev@gmail.com)
+[![Gmail](https://img.shields.io/badge/denis.chichmarev@gmail@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denis.chichmarev@gmail.com)
 
 
 ### Skills
